@@ -1,0 +1,11 @@
+.title {
+  background-color: teal;
+  color: tomato;
+  padding: 1rem;
+}
+
+.hello {
+  background-color: tomato;
+  color: teal;
+  margin-top: 3rem;
+}
